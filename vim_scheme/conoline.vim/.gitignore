@@ -1,0 +1,6 @@
+*.swp
+.hg/
+.hgignore
+.directory
+.hgtags
+
